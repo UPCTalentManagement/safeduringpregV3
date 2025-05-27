@@ -18,11 +18,12 @@ function initCategories() {
     const grid = document.getElementById('categoryGrid');
     
     categories.forEach(category => {
-        if (countOTCByCategory(category) < 0) return;
+        if (countOTCByCategory(category) === 0) return;
         const card = document.createElement('div');
         card.className = 'category-card';
         card.innerHTML = `
             <h3>${category}</h3>
+            <p>${countOTCByCategory(category)} OTC Options</p>
         `;
         card.addEventListener('click', () => {
             window.location.href = `category.html?category=${encodeURIComponent(category)}`;
