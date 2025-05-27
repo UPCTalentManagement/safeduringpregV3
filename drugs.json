@@ -1,0 +1,612 @@
+
+[
+    {
+        "generic": "SALINE NASAL SPRAY",
+        "tradeNames": ["Ocean", "SINOMARIN"],
+        "category": "Respiratory",
+        "pregnancySafety": "Safe for use",
+        "Lactation":"Safe",
+        "otc": true
+    },
+    
+    {
+        "generic": "Pseudoephedrine",
+        "tradeNames": ["PANADOL SINUS"," FLUTAB SINUS"],
+        "category": "Respiratory",
+        "pregnancySafety": "Not Recommended",
+        "Lactation":"May be used",
+        "otc": true,
+        "contra":true
+    },
+    {
+        "generic": " Dextromethorphan ",
+        "tradeNames": ["KAFOSED ", " DEXTROKUF "," RIAPHAN"],
+        "category": "Respiratory",
+        "pregnancySafety": "Safe",
+        "Lactation":"Safe",
+        "otc": false
+    },
+    {
+        "generic": "Loratadine",
+        "tradeNames": ["LORINEX", "CLARITIN"," CLARA"],
+        "category": "Respiratory",
+        "pregnancySafety": "May be used",
+        "Lactation": "Probably compatible",
+        "otc": true
+    },
+    {
+        "generic": "Paracetamol",
+        "tradeNames": ["FEVADOL"," EMIDOL", "ADOL","TYLENOL"],
+        "category": "Analgesics",
+        "pregnancySafety": "Generally Safe",
+        "Lactation":"Compatible",
+        "otc": true
+    },
+    {
+        "generic": "Ibuprofen",
+        "tradeNames": ["PROF"," SAPOFEN"," BRUFEN"],
+        "category": "Analgesics",
+        "pregnancySafety": "2nd choice after Paracetamol but there is Risk in 1st and 3rd Trimester ",
+        "Lactation": "Compatible",
+        "otc": true
+    },
+{
+        "generic": "Diclofenac",
+        "tradeNames": ["“EMIFENAC”"," ROFENAC-D"," RAPIDUS"],
+        "category": "Analgesics",
+        "pregnancySafety": "2nd choice after Paracetamol but there is Risk in 1st and 3rd Trimester ",
+        "Lactation": "Compatible",
+        "otc": true
+    },
+
+{
+        "generic": " Dextromethorphan ",
+        "tradeNames": ["KAFOSED ", " DEXTROKUF "," RIAPHAN"],
+        "category": "Respiratory",
+        "pregnancySafety": "Safe",
+        "Lactation":"Safe",
+        "otc": false
+    },
+    {
+        "generic": "Loratadine",
+        "tradeNames": ["LORINEX", "CLARITIN"," CLARA"],
+        "category": "Respiratory",
+        "pregnancySafety": "May be used",
+        "Lactation": "Probably compatible",
+        "otc": true
+    },
+   
+
+    {
+        "generic": "Cetirizine",
+        "tradeNames": ["ARTIZ ", " ZYRTEC "," ZERTAZINE"],
+        "category": "Respiratory",
+        "pregnancySafety": "May be used",
+        "Lactation": "Probably compatible",
+        "otc": true
+    },
+   {
+        "generic": "Aspirin",
+        "tradeNames": ["DISPRIN 81", " ASPICARD 81"],
+        "category": "Analgesics",
+        "pregnancySafety": " Compatible if Low Dose only (50-100mg) and better avoided in 1st and 2nd trimester if possible",
+        "Lactation": "Not Recommended ",
+        "otc": false
+    },
+
+ {
+        "generic": " Chlorpheniramine",
+        "tradeNames": ["HISTOP ", " ALLERFIN "," ZISTAN"],
+        "category": "Respiratory",
+        "pregnancySafety": "Safe",
+        "Lactation": "Probably compatible",
+        "otc": true
+    },
+    {
+        "generic": " Salbutamol ",
+        "tradeNames": ["VENTOLIN ", " FARCOLIN "," BUTALIN"],
+        "category": "Respiratory",
+        "pregnancySafety": "Safe ",
+        "Lactation": "Probably compatible",
+        "otc": false
+    },
+{
+        "generic": " Ketotifen",
+        "tradeNames": ["HISTOFEN", ", KETONIL"," KETA"],
+        "category": "Respiratory",
+        "pregnancySafety": "May be used",
+        "Lactation": "Probably compatible",
+        "otc": true
+    },
+{
+        "generic": " Ipratropium",
+        "tradeNames": ["ATROVENT", " ATROSOL"],
+        "category": "Respiratory",
+        "pregnancySafety": "May be used but not first choice",
+        "Lactation": "Probably compatible",
+        "otc": false
+    },
+
+
+{
+        "generic": " Acetylcysteine",
+        "tradeNames": ["ACC"],
+        "category": "Respiratory",
+        "pregnancySafety": "Safe",
+        "Lactation": "Probably compatible",
+        "otc": true
+    },
+{
+        "generic": " Metoclopramide",
+        "tradeNames": ["PREMOSAN "],
+        "category": "GIT",
+        "pregnancySafety": "Safe to use but should not be given at a dose exceeding 10 mg three times a day or for longer than 3 months",
+        "Lactation": "Probably compatible",
+        "otc": true
+    },
+{
+        "generic": " Omeprazole",
+        "tradeNames": ["OMIZ ","GASEC","RISEK"],
+        "category": "GIT",
+        "pregnancySafety": "Safe to use as a 3rd choice",
+        "Lactation": "Not Recomended",
+        "otc": true
+    },
+
+{
+        "generic": " Nizatidine",
+        "tradeNames": ["FIXIT"],
+        "category": "GIT",
+        "pregnancySafety": "Safe to use as a 2nd choice",
+        "Lactation": "Probably Compatible",
+        "otc": true
+    },
+{
+        "generic": " Calcium Carbonate  & Magnesium Carbonate",
+        "tradeNames": ["RENNIE"],
+        "category": "GIT",
+        "pregnancySafety": "Safe ",
+        "Lactation": " Probably Compatible ",
+        "otc": true
+    },
+{
+        "generic": "Lamotrigine",
+        "tradeNames": ["LAMICTAL","LOXOL","LAMIRA"],
+        "category": "CNS",
+        "pregnancySafety": "Safe",
+        "Lactation": "Not Recomended",
+        "otc": false
+    },
+
+
+{
+        "generic": " Montelukast ",
+        "tradeNames": ["Airfast "," Antikast "," Singulair "],
+        "category": "Respiratory",
+        "pregnancySafety": "Safe to use in 2nd and 3rd trimester",
+        "Lactation": "probably safe",
+        "otc": false
+    },
+{
+        "generic": " Mometasone ",
+        "tradeNames": ["TABUNEX "," NASONEX "," MOMATE "],
+        "category": "Respiratory",
+        "pregnancySafety": " Safe under doctor supervision ",
+        "Lactation": "Safe under doctor supervision",
+        "otc": false
+    },
+{
+        "generic": " Hyoscine (Scopolamine) ",
+        "tradeNames": ["BUSCOPAN"," SCOPINAL"," NOSPASM"],
+        "category": "GIT",
+        "pregnancySafety": "Low risk",
+        "Lactation": "Probably compatible",
+        "otc": true
+    },
+
+
+{
+        "generic": " Lactulose ",
+        "tradeNames": ["EZILAX "," DUPHALAC "," LACTULOSE "],
+        "category": "GIT",
+        "pregnancySafety": " Safe but 2nd choice after Bulk laxatives ",
+        "Lactation": "Safe but 2nd choice after Bulk laxatives",
+        "otc": true
+    },
+{
+        "generic": " Bisacodyl",
+        "tradeNames": ["DULCOLAX"," LAXOCODYL"],
+        "category": "GIT",
+        "pregnancySafety": " May be used but as 3rd choice.",
+        "Lactation": " May be used but as 3rd choice.",
+        "otc": true
+    },
+{
+        "generic": " Loperamide ",
+        "tradeNames": ["Imodium "],
+        "category": "GIT",
+        "pregnancySafety": "May be used but only during 2nd and 3rd trimesters and as 2nd Choice after Pectin and Kaolin ",
+        "Lactation": " May be used but only during 2nd and 3rd trimesters and as 2nd Choice after Pectin and Kaolin ",
+        "otc": true
+    },
+{
+        "generic": " Sulfasalazine",
+        "tradeNames": ["SALAZOPYRIN"],
+        "category": "GIT",
+        "pregnancySafety": "Safe to use under medical supervision ",
+        "Lactation": " Probably compatible",
+        "otc": true
+    },
+{
+        "generic": " Simvastatin - All Statins",
+        "tradeNames": ["SIMVA "," SIMVAGEN "," SIMVAGEN "],
+        "category": "GIT",
+        "pregnancySafety": " Contraindicated during 1st trimester",
+        "Lactation": "Contraindicated",
+        "otc": false,
+        "contra": true
+    },
+    {
+        "generic": " Cranberry   ",
+        "tradeNames": ["JAMIESON CRANBERRY "," ULTRA CRANBERRY "],
+        "category": "Natural",
+        "pregnancySafety": "Safe during pregnancy 300–400 mg three times daily",
+        "Lactation": "May be....",
+        "otc": true
+    },
+    {
+        "generic": " Echinacea   ",
+        "tradeNames": ["ECHINACEA ","VIVAMUNE", "IMMUMED"],
+        "category": "Natural",
+        "pregnancySafety": "Safe in pregnancy 900 mg of dried root (or equivalent) three times daily",
+        "Lactation": "May be....",
+        "otc": true
+    },
+    {
+        "generic": " Valerian   ",
+        "tradeNames": ["SONGHA NIGHT","JP VALERIAN "],
+        "category": "Natural",
+        "pregnancySafety": "Safe during pregnancy Tea/capsule: 2–3 g of crude herb at bedtime",
+        "Lactation": "Not Recommended",
+        "otc": true
+    },
+    
+    {
+        "generic": " Benzoyl Peroxide",
+        "tradeNames": ["BENZAC-AC 5 % GEL"],
+        "category": "Topical",
+        "pregnancySafety": " Use with caution (On a limited surface area e.g. face) during pregnancy and lactation.",
+        "Lactation": " Use with caution",
+        "otc": true
+    },
+{
+        "generic": " Povidone Iodine",
+        "tradeNames": ["BETADINE ANT-SOLU","DEFODIN ANTI SOLU."],
+        "category": "Topical",
+        "pregnancySafety": " To be used on small areas for few days and not for cleansing body cavities due to risk in 2nd & 3rd Trimesters.",
+        "Lactation": "Safe ",
+        "otc": true
+    },
+
+
+{
+        "generic": " Chlorhexidine (antiseptic)",
+        "tradeNames": ["ECZAL CREAM","TRIPLEX GEL."],
+        "category": "Topical",
+        "pregnancySafety": " Safe",
+        "Lactation": "Safe ",
+        "otc": true
+    },
+{
+        "generic": "Corticosteroids",
+        "tradeNames": ["LOCOID CREAM","ALFACORT CREAM"],
+        "category": "Topical",
+        "pregnancySafety": " Safe but limited for small areas, short time period and to use less potent corticosteroids.",
+        "Lactation": "Safe ",
+        "otc": true
+    },
+{
+        "generic": " Lidocaine ",
+        "tradeNames": ["LIDOCAINE 5% OINT","EMLA 5TUBES CREAM"],
+        "category": "Topical",
+        "pregnancySafety": " Safe",
+        "Lactation": "Safe ",
+        "otc": true
+    },
+
+{
+        "generic": " Camphor & Menthol",
+        "tradeNames": ["ANGELICA CREAM"],
+        "category": "Topical",
+        "pregnancySafety": " Safe",
+        "Lactation": "Safe ",
+        "otc": true
+    },
+{
+        "generic": "Tacrolimus",
+        "tradeNames": ["VIOTOPIC 0.1% OINT.","PROTOPIC 0.1% OINTMENT."],
+        "category": "Topical",
+        "pregnancySafety": " Used with sever caution in strict indications only if the potential benefits outweigh the potential risks.",
+        "Lactation": "Safe ",
+        "otc": true
+    },
+{
+        "generic": " Salicylic Acid",
+        "tradeNames": ["DIPROSALIC OINTMENT","SALIBET OINTMENT."],
+        "category": "Topical",
+        "pregnancySafety": "Not more that 6% during pregnancy and lactation.",
+        "Lactation": " should not be used on chest area to avoid accidental contamination of child",
+        "otc": true
+    },
+{
+        "generic": "Carbamide (Urea)",
+        "tradeNames": ["BABE 10% UREA REPAIR LOTION","DIETBEL UREA 10% CREAM"],
+        "category": "Topical",
+        "pregnancySafety": "Safe",
+        "Lactation": " Safe",
+        "otc": true
+    },
+
+{
+        "generic": " Dimeticone ",
+        "tradeNames": ["ANTI LICE SPRAY NYDA"],
+        "category": "Topical",
+        "pregnancySafety": "Safe",
+        "Lactation": " Safe",
+        "otc": true
+    },
+{
+        "generic": " Azelaic acid ",
+        "tradeNames": ["SKINOREN CREAM"],
+        "category": "Topical",
+        "pregnancySafety": "used for strict indications on small skin surfaces, not in the first trimester.",
+        "Lactation": " Safe",
+        "otc": true
+    },
+{
+        "generic": "Permethrin (Scabicide) ",
+        "tradeNames": ["ERALYCE 5 % CREAM","ERALYCE 1 % CREAM"],
+        "category": "Topical",
+        "pregnancySafety": "Safe",
+        "Lactation": " Safe",
+        "otc": true
+    },
+{
+        "generic": " Anti Hemorrhoid medications",
+        "tradeNames": ["BENOSTAN PROCTO","NAYYAR HEMORRHOID OINTMENT"],
+        "category": "Topical",
+        "pregnancySafety": "Safe",
+        "Lactation": " Safe",
+        "otc": true
+    },{
+        "generic": "St John’s wort",
+        "tradeNames": ["Jamieson St. John's Wort"],
+        "category": "Natural",
+        "pregnancySafety": "May be safe but available date suggest low risk",
+        "Lactation": " Possible Toxicity during lactation",
+        "otc": true
+    },{
+        "generic": "Milk thistle (Silymarin)",
+        "tradeNames": ["Jp Hepaform Liver Support ","Legalon Forte"],
+        "category": "Natural",
+        "pregnancySafety": "Safe in second and third trimester only",
+        "Lactation": "May be....",
+        "otc": true
+    },
+    {
+        "generic": "Senna",
+        "tradeNames": ["A-Lax ","Agiolax "],
+        "category": "Natural",
+        "pregnancySafety": "Not Recommended , may be used with sever caution only in Second and third trimester ",
+        "Lactation": "May be....",
+        "otc": true
+    },
+    {
+        "generic": "Horse chestnut",
+        "tradeNames": ["Arkopharma Horse Chestnut ","Hemorrelax ","Lecoxen"],
+        "category": "Natural",
+        "pregnancySafety": "Safe ",
+        "Lactation": "May be....",
+        "otc": true
+    },
+    {
+        "generic": "Cascara",
+        "tradeNames": ["Jamieson Laxaco"],
+        "category": "Natural",
+        "pregnancySafety": "Contraindicated during pregnancy  ",
+        "Lactation": "May be....",
+        "otc": true,
+        "contra":true
+    },
+    {
+        "generic": "Ginseng",
+        "tradeNames": ["Marnys Ginseng","ROYAL JELLY PLUS GINSENG "],
+        "category": "Natural",
+        "pregnancySafety": "Contraindicated during pregnancy  ",
+        "Lactation": "May be....",
+        "otc": true,
+        "contra":true
+    },
+    {
+        "generic": "Licorice",
+        "tradeNames": ["Glavolean","Rexsol Licorice "],
+        "category": "Natural",
+        "pregnancySafety": "Contraindicated during pregnancy  ",
+        "Lactation": "May be....",
+        "otc": true,
+        "contra":true
+    },
+    {
+        "generic": "Passion Flower ",
+        "tradeNames": ["Jamieson Relaxing Herbal Formula "],
+        "category": "Natural",
+        "pregnancySafety": "Contraindicated during pregnancy  ",
+        "Lactation": "May be....",
+        "otc": true,
+        "contra":true
+    },{
+        "generic": "Methyldopa",
+        "tradeNames": ["ALDOMET "],
+        "category": "CVS",
+        "pregnancySafety": " Safe",
+        "Lactation": " Safe",
+        "otc": false
+    },
+{
+        "generic": " Metoprolol",
+        "tradeNames": ["Carelio " ,"Lopresor"],
+        "category": "CVS",
+        "pregnancySafety": " Potential risk in 2nd & 3rd Trimesters.",
+        "Lactation": "Contraindicated ",
+        "otc": false,
+        "contra":true
+    },
+
+
+{
+        "generic": " Bisoprolol",
+        "tradeNames": ["CONCOR" ,"SESCTA"],
+        "category": "CVS",
+        "pregnancySafety": "Potential risk in 2nd & 3rd Trimesters.",
+        "Lactation": "Contraindicated ",
+        "otc": false,
+        "contra":true
+    },
+{
+        "generic": " Nifedipine",
+        "tradeNames": ["ADALAT " ,"EPILAT"],
+        "category": "CVS",
+        "pregnancySafety": " safe.",
+        "Lactation": "safe ",
+        "otc": false
+    },
+{
+        "generic": " Verapamil",
+        "tradeNames": ["ISOPTIN"],
+        "category": "CVS",
+        "pregnancySafety": " safe.",
+        "Lactation": "safe ",
+        "otc": false
+    },
+{
+        "generic": " Valsartan – All ARBs",
+        "tradeNames": ["TAPUVAN", "DIOVAN"],
+        "category": "CVS",
+        "pregnancySafety": " Contraindicated in 2nd & 3rd Trimester.",
+        "Lactation": "safe ",
+        "otc": false,
+        "contra":true
+    },
+
+{
+        "generic": " Enalapril – All ACEIs",
+        "tradeNames": ["Renitec"],
+        "category": "CVS",
+        "pregnancySafety": " Contraindicated in 2nd & 3rd Trimester.",
+        "Lactation": "safe ",
+        "otc": false,
+        "contra":true
+    },
+{
+        "generic": " Digoxin",
+        "tradeNames": ["LANOXIN"],
+        "category": "CVS",
+        "pregnancySafety": " Safe.",
+        "Lactation": "safe ",
+        "otc": false
+    },
+{
+        "generic": " Amiodarone",
+        "tradeNames": ["CORDARON"],
+        "category": "CVS",
+        "pregnancySafety": " Contraindicated.",
+        "Lactation": "Contraindicated",
+        "otc": false,
+        "contra":true
+    },
+{
+        "generic": " Nitates",
+        "tradeNames": ["ISOBIDE", "NITRODERM"],
+        "category": "CVS",
+        "pregnancySafety": " safe.",
+        "Lactation": "safe",
+        "otc": false
+    },
+{
+        "generic": " Pentoxifylline ",
+        "tradeNames": ["TRENTAL"],
+        "category": "CVS",
+        "pregnancySafety": " may be used.",
+        "Lactation": "safe",
+        "otc": false
+    },
+{
+        "generic": " Furosemide ",
+        "tradeNames": ["LASIX"],
+        "category": "CVS",
+        "pregnancySafety": " may be used.",
+        "Lactation": "safe",
+        "otc": false
+    },
+{
+        "generic": " hydrochlorothiazide ",
+        "tradeNames": ["Monozide.", "ESIDREX"],
+        "category": "CVS",
+        "pregnancySafety": " Safe.",
+        "Lactation": "safe",
+        "otc": false
+    },
+{
+        "generic": " Spironolactone ",
+        "tradeNames": ["ALDACTONE", "NORACTONE"],
+        "category": "CVS",
+        "pregnancySafety": " low risk.",
+        "Lactation": "safe",
+        "otc": false
+    },
+    {
+        "generic": "Rivaroxaban",
+        "tradeNames": ["XARELTO", "VAROXA", "RIVAX"],
+        "category": "Anti-Coagulant",
+        "pregnancySafety": " Potential Risk.",
+        "Lactation": " Toxic",
+        "otc": false,
+        "contra":true
+    },
+{
+        "generic": "Apixaban",
+        "tradeNames": ["ELIQUIS", "APIXABAN", "PAQUIX"],
+        "category": "Anti-Coagulant",
+        "pregnancySafety": " Low Risk.",
+        "Lactation": " Toxic",
+        "otc": false
+    },
+
+{
+        "generic": "Itraconazole",
+        "tradeNames": ["TRACON", "ITRAZOL"],
+        "category": "Anti-Fungal Agent",
+        "pregnancySafety": " Low Risk.",
+        "Lactation": " Toxic ",
+        "otc": false
+    },
+{
+        "generic": "Fluconazle",
+        "tradeNames": ["DIFLUCAN", "CANDIVAST"],
+        "category": "Anti-Fungal Agent",
+        "pregnancySafety": "Risk if > 400 mg/day.",
+        "Lactation": " Safe ",
+        "otc": false
+    },
+{
+        "generic": "Acyclovir",
+        "tradeNames": ["ZOVIRAX", "VIRUSTAT"],
+        "category": "Anti-Viral Agent",
+        "pregnancySafety": "Safe.",
+        "Lactation": " Safe ",
+        "otc": false
+    }
+
+
+
+]

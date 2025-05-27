@@ -1,0 +1,222 @@
+:root {
+    --primary-color: #2A5C82;
+    --secondary-color: #5BA4E6;
+    --background-color: #F5F9FF;
+    --card-hover: #E3F2FD;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--background-color);
+    line-height: 1.6;
+}
+
+header {
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    padding: 1rem 0;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    padding: 0 1rem;
+    text-align: center;
+}
+
+.logo {
+    height: 40px;
+    width: auto;
+}
+
+h1 {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.search-container {
+    max-width: 800px;
+    margin: 1rem auto;
+    padding: 0 1rem;
+}
+
+#searchInput {
+    width: 100%;
+    padding: 1rem;
+    margin: 0.5rem 0;
+    border: none;
+    border-radius: 30px;
+    font-size: 1rem;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+}
+
+.container {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.categories-title {
+    text-align: center;
+    color: var(--primary-color);
+    margin: 2rem 0 1rem;
+    font-size: 1.4rem;
+}
+
+.category-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.category-card {
+    background: var(--secondary-color);
+    border-radius: 12px;
+    padding: 0.5rem;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 0.85rem;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+.category-card:hover {
+    transform: translateY(-3px);
+    background: var(--card-hover);
+    color: black;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.results-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1rem;
+}
+
+.drug-card {
+    background: white;
+    border-radius: 15px;
+    padding: 1rem;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    transition: background 0.3s ease;
+}
+
+.drug-card:hover {
+    background: var(--card-hover);
+    cursor: pointer;
+}
+
+.drug-card h3 {
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+}
+
+.otc-tag, .rx-tag, .contraindicated {
+    padding: 0.3rem 0.7rem;
+    border-radius: 15px;
+    font-size: 0.75rem;
+    display: inline-block;
+    margin-bottom: 0.5rem;
+}
+
+.otc-tag {
+    background: #09CCFC;
+    color: white;
+}
+
+.rx-tag {
+    background: #F2AA84;
+    color: white;
+}
+
+.contraindicated {
+    background: #C00000;
+    color: white;
+}
+
+/* -------------------------- */
+/* Responsive Media Queries   */
+/* -------------------------- */
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.3rem;
+    }
+
+    .logo {
+        height: 35px;
+    }
+
+    #searchInput {
+        font-size: 0.95rem;
+        padding: 0.8rem;
+    }
+
+    .category-grid {
+        grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
+    }
+
+    .drug-card h3 {
+        font-size: 1rem;
+    }
+    .category-card {
+        font-size: 0.75rem;
+        padding: 0.4rem;
+    }
+}
+@media (max-width: 555px) {
+    .header-content {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    .logo {
+    display: none;
+    }
+@media (max-width: 480px) {
+    .header-content {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    .logo {
+    display: none;
+    }
+    .container {
+        padding: 0 0.5rem;
+    }
+
+    .category-card {
+        font-size: 0.7rem;
+        padding: 0.3rem;
+    }
+
+    .results-container {
+        grid-template-columns: 1fr;
+    }
+
+    #searchInput {
+        padding: 0.7rem;
+    }
+    
+
+    .category-grid {
+        grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+    }
+}
